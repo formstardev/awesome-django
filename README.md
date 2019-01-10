@@ -1,4 +1,4 @@
-# Awesome Django
+# Awesome Django [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to Django.
 
@@ -54,6 +54,7 @@
 
 ### External Resources
 
+* [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users) - Very active discussion board for questions/answers.
 * [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions for each generic class-based view.
 * [Django Packages](https://djangopackages.org/) - Comprehensive directory of reusable Django apps and tools.
 * [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
@@ -73,6 +74,7 @@
 * [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users)
 * [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
 * [Behavior-Driven Development with Aloe](https://github.com/testdrivenio/django-aloe-bdd)
+* [Image Sharing Blog](https://github.com/MeNsaaH/soMedia)
 
 ### Example Apps: Advanced
 
@@ -99,6 +101,7 @@
 
 * [Official Documentation](http://www.django-rest-framework.org/)
 * [DRF Source Code](https://github.com/encode/django-rest-framework)
+* [DRF](https://github.com/nioperas06/awesome-django-rest-framework)
 
 ### DRF Tutorials
 
