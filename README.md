@@ -161,7 +161,6 @@ _Docker is commonly used to work with production-level databases locally like Po
 - [djangox](https://github.com/wsvincent/djangox) - A simpler approach with complete user authentication flow, Pipenv, and more.
 - [django-starter-project](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 - [docker-django](https://github.com/erroneousboat/docker-django) - A quick starter guide for Django and Docker together.
-- [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 
 ## Open Source Apps
 
@@ -179,6 +178,7 @@ _Docker is commonly used to work with production-level databases locally like Po
 - [django-oscar](https://github.com/django-oscar/django-oscar) - E-commerce for Django
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django
 - [saleor](https://github.com/mirumee/saleor) - E-commerce storefront
+- [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source Python CRM based on Django
 
 ## Django REST Framework
 
