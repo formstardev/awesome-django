@@ -161,6 +161,7 @@ _Docker is commonly used to work with production-level databases locally like Po
 - [djangox](https://github.com/wsvincent/djangox) - A simpler approach with complete user authentication flow, Pipenv, and more.
 - [django-starter-project](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 - [docker-django](https://github.com/erroneousboat/docker-django) - A quick starter guide for Django and Docker together.
+- [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 
 ## Open Source Apps
 
@@ -262,7 +263,6 @@ _Django 1.11_
 
 ### Paid Videos
 
-- [Build Your First Website with Django](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2)
 - [Build Backend Web Apps and APIs with Django](https://www.oreilly.com/library/view/web-development-in/9780134659824/) - 9 hour course from Andrew Pinkham, author of [Django Unleashed](https://www.amazon.com/dp/0321985079/), covering APIs, data manipulation, and deployment to Heroku.
 - [Build a Real Estate App](https://www.udemy.com/python-django-dev-to-deployment/) - 11 hour course by Brad Traversy on building a real estate app with PostgreSQL and deploying to Digital Ocean.
 - [Ultimate Web Development Bootcamp](https://www.udemy.com/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/) - 10 hour course building three apps--word counter, personal portfolio, product hunt clone--and deploying to Digital Ocean.
