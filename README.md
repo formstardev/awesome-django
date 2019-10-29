@@ -64,16 +64,17 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Import/export data more easily with admin integration
 - [django-honeypot](https://github.com/jamesturk/django-honeypot/) - Configure a honeypot to see who's trying to hack your site
 - [django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin
-- [django-jet](https://github.com/geex-arts/django-jet) - Responsive admin template
 - [xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement with goodies
 
 ### APIs
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
 - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - REST API endpoints for authentication and registration
+- [django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth
 - [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django auth
 - [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django
+- [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django
 
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django
@@ -158,6 +159,7 @@ _A short list of Python packages that work well with Django._
 - [pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library
 - [pytest](https://github.com/pytest-dev/pytest/) - Testing framework
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
+- [sentry-python](https://github.com/getsentry/sentry-python) - Error reporting SDK
 
 ## Resources
 
