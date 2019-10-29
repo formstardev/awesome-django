@@ -64,6 +64,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Import/export data more easily with admin integration
 - [django-honeypot](https://github.com/jamesturk/django-honeypot/) - Configure a honeypot to see who's trying to hack your site
 - [django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin
+- [django-jet](https://github.com/geex-arts/django-jet) - Responsive admin template
 - [xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement with goodies
 
 ### APIs
@@ -103,6 +104,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker
 - [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
+- [django-money](https://github.com/django-money/django-money) - Money fields for forms/models
+- [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - Model/form field for normalized phone numbers
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
 
