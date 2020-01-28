@@ -11,7 +11,6 @@
 - [Third-Party Packages](#third-party-packages)
   - [Admin](#admin)
   - [APIs](#apis)
-  - [APM](#apm)
   - [Async](#async)
   - [Commands](#commands)
   - [Content Management Systems](#content-management-systems)
@@ -76,11 +75,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django
-
-### APM (Application Performance Monitoring)
-
-- [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
-- [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection.
 
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django
@@ -200,8 +194,8 @@ _A short list of Python packages that work well with Django._
 ### Conferences
 
 - [DjangoCon US](https://2019.djangocon.us/) ([YouTube Channel](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw))
-- [DjangoCon Europe](https://2019.djangocon.eu/) ([YouTube Channel](https://www.youtube.com/user/djangoconeurope))
-- [PyCon US](https://us.pycon.org/2019/) ([YouTube Channel](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ))
+- [DjangoCon Europe](https://2020.djangocon.eu/) ([YouTube Channel](https://www.youtube.com/user/djangoconeurope))
+- [PyCon US](https://us.pycon.org/2020/) ([YouTube Channel](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ))
 - [PyCon Australia](https://2019.pycon-au.org/) ([YouTube Channel](https://www.youtube.com/user/PyConAU))
 - [Euro Python](https://ep2019.europython.eu/) ([YouTube Channel](https://www.youtube.com/user/PythonItalia))
 - [Django Under the Hood](https://www.youtube.com/channel/UC9T1dhIlL_8Va9DxvKRowBw/videos)
