@@ -16,7 +16,6 @@
   - [Configuration](#configuration)
   - [Content Management Systems](#content-management-systems)
   - [ECommerce](#ecommerce)
-  - [Files/Images](#files-images)
   - [Forms](#forms)
   - [Models](#models)
   - [Performance](#performance)
@@ -76,6 +75,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django auth
 - [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django
+- [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django
 
 
@@ -103,9 +103,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system
 - [shuup](https://github.com/shuup/shuup) - Django E-Commerce Platform
-
-### Files/Images
-- [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files
 
 ### Forms
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
