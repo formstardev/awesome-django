@@ -150,6 +150,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
 - [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django
+- [celery](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects
 
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
@@ -322,7 +323,6 @@ _Django 1.11_
 - [saleor](https://github.com/mirumee/saleor/) - E-commerce storefront
 - [Django-CRM](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django
 - [django-job-portal](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django
-- [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects
 
 ## Django REST Framework
 
