@@ -150,7 +150,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
 - [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django
-- [celery](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects
 
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
@@ -310,6 +309,7 @@ _Django 1.11_
 - [django2-project-template](https://github.com/vigo/django2-project-template/) - A quick starter template with PostgreSQL.
 - [django-webpack-starter](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 - [sos-django-template](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings
+- [django-docker-heroku-template](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
 
 ### Open Source Projects
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
