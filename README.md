@@ -69,7 +69,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site
 - [django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin
-- [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 
 ### APIs
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
@@ -106,6 +105,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system
 - [shuup](https://github.com/shuup/shuup) - Django E-Commerce Platform
+- [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files
