@@ -128,6 +128,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
 - [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin
+- [django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 
 ### Performance
 - [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code
@@ -151,6 +152,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
 - [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django
+- [celery](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects
 
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
