@@ -117,7 +117,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view.
-- [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ### Logging
 - [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
@@ -175,6 +174,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Users
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects.
+- [django-cas-ng](https://github.com/django-cas-ng/django-cas-ng) - django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
 
 ### Views
 - [django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins.
