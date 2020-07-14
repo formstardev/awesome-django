@@ -66,6 +66,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Admin
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin.
+- [django-jazzmin](https://github.com/farridav/django-jazzmin) - Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy
 - [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials.
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site.
@@ -168,7 +169,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
 - [django-swagger-tester](https://github.com/sondrelg/django-swagger-tester) - Django test utility for validating Swagger documentation.
-- [django-google-optimize](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
 
 ### URLs
 - [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs.
