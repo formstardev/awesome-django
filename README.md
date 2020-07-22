@@ -75,15 +75,16 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 
 ### APIs
-- [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django.
-- [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
-- [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework.
-- [django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
-- [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django auth.
-- [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF.
-- [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django.
-- [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
-- [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
+- [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
+- [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this
+- [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework
+- [django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth
+- [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django auth
+- [djaq](https://github.com/paul-wolf/djaq) - An instant remote API to Django models with a powerful query language
+- [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
+- [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django
+- [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code
+- [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django
 
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django.
@@ -163,6 +164,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue.
 - [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django.
 - [celery](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects.
+- [django-dramatiq](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability and performance.
 
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
@@ -217,20 +219,20 @@ _A short list of Python packages that work well with Django._
 
 ### Educational
 
+- [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
+- [LearnDjango](https://learndjango.com/) - Tutorials and premium courses on Django and Django REST Framework.
+- [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and writes regular tutorials.
+- [TestDriven](https://testdriven.io/blog/) - Multiple Django-specific tutorials on topics like Docker, payments, and more.
 - [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
 - [Classy Django Forms](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
 - [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
-- [LearnDjango](https://learndjango.com/) - Tutorials and premium courses on Django and Django REST Framework.
-- [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
 - [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
 - [Full Stack Python's Django Page](https://www.fullstackpython.com/django.html) - Explanation of Django philosophy and links to other resources and tutorials.
 - [RealPython](https://realpython.com/tutorials/django/) - Many high-quality tutorials on Django.
-- [TestDriven](https://testdriven.io/blog/) - Multiple Django-specific tutorials on topics like Docker, payments, and more.
 - [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app.
-- [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and writes regular tutorials.
 - [Matt Layman](https://www.mattlayman.com) - Regular tutorials and deep-dives on Django topics.
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
-- [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for django with best practices and examples.
+- [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
 
 ### Community
 
@@ -259,6 +261,7 @@ _A short list of Python packages that work well with Django._
 
 - [Django Chat](https://djangochat.com/) - A weekly podcast from William Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
 - [Django Riffs](https://djangoriffs.com) - A new podcast from Matt Layman.
+- [Running in Production](https://runninginproduction.com/tags/django) - Focused on tech stacks with many episodes specifically on Django.
 - [TalkPython](https://talkpython.fm/) - The leading Python podcast with several episodes on Django.
 - [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Django guests on occasion.
 
@@ -270,10 +273,10 @@ _Django 3.0_
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
 - [Django Crash Course](https://roygreenfeld.com/products/django-crash-course)
-- [Django 3 by Example](https://djangobyexample.com/)
-- [Django 3 Web Development Cookbook](https://www.packtpub.com/eu/web-development/django-3-web-development-cookbook-fourth-edition)
 - [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
 - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x?variant=31605362196567)
+- [Django 3 by Example](https://djangobyexample.com/)
+- [Django 3 Web Development Cookbook](https://www.packtpub.com/eu/web-development/django-3-web-development-cookbook-fourth-edition)
 
 _Django 2.2_
 - [Tango with Django](https://www.tangowithdjango.com/)
@@ -326,7 +329,6 @@ _Django 1.11_
 - [django-webpack-starter](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 - [sos-django-template](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings.
 - [django-docker-heroku-template](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
-- [cookiecutter-vue-django](https://github.com/ilikerobots/cookiecutter-vue-djano) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 
 ### Open Source Projects
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
