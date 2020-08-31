@@ -85,6 +85,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
+- [django-ninja](http://django-ninja.rest-framework.com/) - Django Ninja - Fast Django REST framework based on type annotations.
 
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django.
@@ -100,7 +101,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables.
 - [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files.
 - [django-constance](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
-- [djenv](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables
 
 ### Content Management Systems
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/springload/awesome-wagtail) too.
