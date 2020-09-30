@@ -23,8 +23,10 @@
     - [Configuration](#configuration)
     - [Content Management Systems](#content-management-systems)
     - [ECommerce](#ecommerce)
+    - [Editors](#editors)
     - [Files/Images](#filesimages)
     - [Forms](#forms)
+    - [General](#general)
     - [Logging](#logging)
     - [Models](#models)
     - [Performance](#performance)
@@ -63,11 +65,6 @@
 ## Third-Party Packages
 
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
-
-- [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
-- [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
-- [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
-- [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
 
 ### Admin
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin.
@@ -124,6 +121,14 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [shuup](https://github.com/shuup/shuup) - Django E-Commerce Platform.
 - [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
 
+### Editors
+- [django-ckeditor](https://github.com/shaunsephton/django-ckeditor) - Django admin CKEditor integration.
+- [django-markdownx](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
+- [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
+- [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor) - A lightweight wysiwyg editor for Django.
+- [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django.
+- [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - django-quill-editor makes Quill.js easy to use on Django Forms and admin sites.
+
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
 
@@ -133,6 +138,12 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view.
 - [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+
+### General 
+- [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
+- [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
+- [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
+- [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
 
 ### Logging
 - [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
@@ -163,6 +174,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Security
 - [django-csp](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
 - [django-feature-policy](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
+- [django-protected-media](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
 
 ### Static Assets
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django.
@@ -211,10 +223,12 @@ _A short list of Python packages that work well with Django._
 - [bleach](https://github.com/mozilla/bleach) - Sanitize your inputs/forms.
 - [black](https://github.com/psf/black) - Uncompromising Python code formatter.
 - [coveragepy](https://github.com/nedbat/coveragepy) - Code coverage measurement.
+- [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [huey](https://github.com/coleifer/huey) - A little task queue for Python.
 - [nplusone](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
 - [pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library.
 - [pytest](https://github.com/pytest-dev/pytest/) - Testing framework.
+- [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 - [sentry-python](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites.
