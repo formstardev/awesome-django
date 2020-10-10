@@ -6,10 +6,9 @@
 </div>
 
 # Awesome Django
-
 > A curated list of awesome things related to Django.
-
-Maintained by [William Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
+Maintained by <a rel="" href="https://github.com/wsvincent">William Vincent</a> and
+<a rel="" href="https://github.com/jefftriplett">Jeff Triplett</a>.
 
 Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
 sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
@@ -347,6 +346,7 @@ _Django 2.2_
 - [Digital Ocean](https://www.digitalocean.com)
 - [Linode](https://www.linode.com/)
 - [Amazon Lightsail](https://aws.amazon.com/lightsail/)
+- [Hetzner](https://www.hetzner.com/)
 
 ## Projects
 
