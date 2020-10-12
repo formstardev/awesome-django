@@ -6,7 +6,9 @@
 </div>
 
 # Awesome Django
-> A curated list of awesome things related to Django. Maintained by <a rel="" href="https://github.com/wsvincent">William Vincent</a> and <a rel="" href="https://github.com/jefftriplett">Jeff Triplett</a>.
+> A curated list of awesome things related to Django.
+Maintained by <a rel="" href="https://github.com/wsvincent">William Vincent</a> and
+<a rel="" href="https://github.com/jefftriplett">Jeff Triplett</a>.
 
 Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
 sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
@@ -79,6 +81,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site.
 - [django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
 - [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
+- [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`, ... etc
 
 ### APIs
 <!--lint disable double-link-->
@@ -344,7 +347,6 @@ _Django 2.2_
 - [Digital Ocean](https://www.digitalocean.com)
 - [Linode](https://www.linode.com/)
 - [Amazon Lightsail](https://aws.amazon.com/lightsail/)
-- [Hetzner](https://www.hetzner.com/)
 
 ## Projects
 
