@@ -6,10 +6,9 @@
 </div>
 
 # Awesome Django
-
 > A curated list of awesome things related to Django.
-
-Maintained by [William Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
+Maintained by <a rel="" href="https://github.com/wsvincent">William Vincent</a> and
+<a rel="" href="https://github.com/jefftriplett">Jeff Triplett</a>.
 
 Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
 sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
@@ -82,8 +81,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site.
 - [django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
 - [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
-- [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
-- [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
 
 ### APIs
 <!--lint disable double-link-->
@@ -127,6 +124,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/springload/awesome-wagtail) too.
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework.
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django.
+- [feincms](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail.
 <!--lint enable double-link-->
 
@@ -144,7 +142,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor) - A lightweight wysiwyg editor for Django.
 - [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django.
 - [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - django-quill-editor makes Quill.js easy to use on Django Forms and admin sites.
-- [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
@@ -155,6 +152,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view.
+- [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ### General
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
