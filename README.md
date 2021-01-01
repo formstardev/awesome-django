@@ -6,10 +6,7 @@
 </div>
 
 # Awesome Django
-
-> A curated list of awesome things related to Django.
-
-Maintained by [William Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
+> A curated list of awesome things related to Django. Maintained by <a rel="" href="https://github.com/wsvincent">William Vincent</a> and <a rel="" href="https://github.com/jefftriplett">Jeff Triplett</a>.
 
 Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
 sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
@@ -172,6 +169,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 - [django-money](https://github.com/django-money/django-money) - Money fields for forms/models.
+- [django-mptt](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 - [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - Model/form field for normalized phone numbers.
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags.
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances.
@@ -189,6 +187,9 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Search
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin.
+
+### Search engine optimisation
+- [django-check-seo](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
 
 ### Security
 - [django-csp](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
@@ -351,6 +352,7 @@ _Django 2.2_
 - [Digital Ocean](https://www.digitalocean.com)
 - [Linode](https://www.linode.com/)
 - [Amazon Lightsail](https://aws.amazon.com/lightsail/)
+- [Hetzner](https://www.hetzner.com/)
 
 ## Projects
 
