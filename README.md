@@ -81,7 +81,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 - [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 - [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
-- [django-material-admin](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
 
 ### APIs
 <!--lint disable double-link-->
@@ -155,6 +154,11 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view.
+
+### Full-stack frameworks
+- [Reactor](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
+- [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
+- [Unicorn](https://www.django-unicorn.com/) - A reactive component framework that progressively enhances a normal Django view, makes AJAX calls in the background, and dynamically updates the DOM.
 
 ### General
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
