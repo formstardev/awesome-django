@@ -81,6 +81,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 - [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 - [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
+- [django-material-admin](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
+- [django-related-admin](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list_displays accross foreign key relationships.
 
 ### APIs
 <!--lint disable double-link-->
@@ -155,6 +157,11 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view.
 
+### Full-stack frameworks
+- [Reactor](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
+- [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
+- [Unicorn](https://www.django-unicorn.com/) - A reactive component framework that progressively enhances a normal Django view, makes AJAX calls in the background, and dynamically updates the DOM.
+
 ### General
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
@@ -217,7 +224,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement.
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
-- [django-swagger-tester](https://github.com/sondrelg/django-swagger-tester) - Django test utility for validating Swagger documentation.
+- [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 - [django-google-optimize](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
 
 ### URLs
@@ -369,6 +376,7 @@ _Django 2.2_
 - [sos-django-template](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings.
 - [django-docker-heroku-template](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
 - [cookiecutter-vue-django](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
+- [launchr](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 
 ### Open Source Projects
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
@@ -383,6 +391,7 @@ _Django 2.2_
 - [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
 - [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics.
 - [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
+- [Healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
 
 ## Django REST Framework
 
