@@ -85,6 +85,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-material-admin](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
 - [django-related-admin](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list_displays accross foreign key relationships.
 - [django-semantic-admin](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
+- [django-jet-reboot](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
 - [django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 
 ### APIs
@@ -337,7 +338,7 @@ _Django 3.1_
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
 - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x)
-- [A Wedge of Django: Covers Python 3.8 and Django 3.x](https://www.feldroy.com/products/a-wedge-of-django)
+- [A Wedge of Django: Covers Python 3.8 and Django 3.x](https://www.feldroy.com/collections/two-scoops-press/products/django-crash-course)
 
 _Django 3.0_
 - [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
